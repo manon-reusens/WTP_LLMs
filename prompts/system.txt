@@ -1,0 +1,1 @@
+You are a smart personal assistant that will help a user to make some decisions.
